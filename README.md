@@ -2,24 +2,24 @@
 
 ## (Information)
 [Information document](https://github.com/ElmarKessler/ElmarKesslerTBZProject
-/blob/main/Doku_I.md)
+/blob/main/Inform)
 
 ## (Planning)
 [Planning document](https://github.com/ElmarKessler/ElmarKesslerTBZProject
-/blob/main/Doku_P.md)
+/blob/main/Planning)
 
 ## (Decisions)
 [Decisions document](https://github.com/ElmarKessler/ElmarKesslerTBZProject
-/blob/main/Doku_E.md)
+/blob/main/Descision)
 
 ## (Realisation)
 [Realisation document](https://github.com/ElmarKessler/ElmarKesslerTBZProject
-/blob/main/Doku_R.md)
+/blob/main/Realization)
 
 ## (Control)
 [Control document](https://github.com/ElmarKessler/ElmarKesslerTBZProject
-/blob/main/Doku_K.md)
+/blob/main/Control)
 
 ## (Assess)
 [Assess document](https://github.com/ElmarKessler/ElmarKesslerTBZProject
-/blob/main/Doku_A.md)
+/blob/main/Assess)

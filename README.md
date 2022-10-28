@@ -1,25 +1,19 @@
 # IPERKA
 
 ## (Information)
-[Information document](https://github.com/ElmarKessler/ElmarKesslerTBZProject
-/blob/main/Inform)
+[Information document](https://github.com/ElmarKessler/ElmarKesslerTBZProject/blob/main/Inform)
 
 ## (Planning)
-[Planning document](https://github.com/ElmarKessler/ElmarKesslerTBZProject
-/blob/main/Planning)
+[Planning document](https://github.com/ElmarKessler/ElmarKesslerTBZProject/blob/main/Planning)
 
 ## (Decisions)
-[Decisions document](https://github.com/ElmarKessler/ElmarKesslerTBZProject
-/blob/main/Descision)
+[Decisions document](https://github.com/ElmarKessler/ElmarKesslerTBZProject/blob/main/Descision)
 
 ## (Realisation)
-[Realisation document](https://github.com/ElmarKessler/ElmarKesslerTBZProject
-/blob/main/Realization)
+[Realisation document](https://github.com/ElmarKessler/ElmarKesslerTBZProject/blob/main/Realization)
 
 ## (Control)
-[Control document](https://github.com/ElmarKessler/ElmarKesslerTBZProject
-/blob/main/Control)
+[Control document](https://github.com/ElmarKessler/ElmarKesslerTBZProject/blob/main/Control)
 
 ## (Assess)
-[Assess document](https://github.com/ElmarKessler/ElmarKesslerTBZProject
-/blob/main/Assess)
+[Assess document](https://github.com/ElmarKessler/ElmarKesslerTBZProject/blob/main/Assess)

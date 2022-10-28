@@ -1,6 +1,6 @@
-Project Documentation
+##Project Documentation
 
-**Inform**** ation:**
+**Information:**
 
 Projektidee:
 

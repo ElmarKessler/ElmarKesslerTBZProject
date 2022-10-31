@@ -21,6 +21,3 @@
 - Ich würde beim Projekt mehr Zeit einplanen um Stress zu vermeiden.
 - ich würde schon von Anfang an mit der Dokumentation starten.
 - Ich würde probieren, schon eine Woche bevor der Abgabe mit dem Projekt feritg zu sein, damit ich keinen Stress habe.
--  
-### Wie finde ich mein Projekt:
-

@@ -5,14 +5,14 @@ I have downloaded the iso file I need for the installation of Linux Arch on a US
 ### Setup of the linux Arch Command console
 I put the USB stick in my laptop and pressed F12 on startup to get into the bootmenu. In the bootmenu I selected the USB-stick and finally got to the linux Arch console.
 
-![alt text](Command prompt.PNG)
+![alt Text](Command prompt.PNG)
 
 ### Installing Linux Arch
 In the console I had to enter a lot of commands. It was not very difficult because the tutorial on Youtube helped me a lot. First I had to have a stable internet connection and I used the Ethernet cable. 
 In the next step, I set up the storage device and created two partitions. 
 After that I installed some packages for Linux Arch. For this I used the command: pacman -S (package name).
 
-![alt text](InstallationKernel.PNG)
+![alt Text](InstallationKernel.PNG)
 
 These packages contain extra functions and make the system work better. 
 I also enabled services that should start when Linux Arch starts. For this I used the command: systemctl enable (name of the service)

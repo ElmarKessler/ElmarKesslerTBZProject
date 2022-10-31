@@ -10,7 +10,7 @@
 [Decisions document](https://github.com/ElmarKessler/ElmarKesslerTBZProject/blob/main/Descision)
 
 ## (Realisation)
-[Realisation document](https://github.com/ElmarKessler/ElmarKesslerTBZProject/blob/main/Realization)
+[Realisation document](https://github.com/ElmarKessler/ElmarKesslerTBZProject/blob/main/Realisation)
 
 ## (Control)
 [Control document](https://github.com/ElmarKessler/ElmarKesslerTBZProject/blob/main/Control)

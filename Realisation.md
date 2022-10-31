@@ -1,40 +1,40 @@
 ## Realisation
 ### Download the iso File
-Ich habe das iso File, das ich für die Installation von Linux Arch brauche auf einen USB-Stick geladen. Das iso file habe ich auf der offizielle Seite von Linux Arch heruntergeladen.
+I have downloaded the iso file I need for the installation of Linux Arch on a USB stick. I downloaded the iso file from the official site of Linux Arch.
 
-### Setup der linux Arch Command konsole
-Ich habe den USB-stick in meinen Laptop gesteckt und beim Start die F12 Taste gedrückt, damit ich ins bootmenu komme. Im Bootmenue wählte ich den USB-stick aus und gelange schliesslich zur Linux Arch Konsole.
+### Setup of the linux Arch Command console
+I put the USB stick in my laptop and pressed F12 on startup to get into the bootmenu. In the bootmenu I selected the USB-stick and finally got to the linux Arch console.
 
 ![alt text](Command prompt.PNG)
 
-### Installation von Linux Arch
-In der Konsole musste ich sehr viele Befehle eingeben. Es war nicht sehr schwierig, weil mir das Tutorial auf Youtube sehr geholfen hat. Zuerst musste ich eine stabile Internetverbindung haben und verwendete das Ethernetkabel. 
-Im nächsten Schritt habe ich das Speichermedium eingerichtet und zwei Partitionen erstellt. 
-Danach habe ich einige Pakete für Linux Arch installiert. Dafür benutzte ich den befehl: pacman -S (Paketname).
+### Installing Linux Arch
+In the console I had to enter a lot of commands. It was not very difficult because the tutorial on Youtube helped me a lot. First I had to have a stable internet connection and I used the Ethernet cable. 
+In the next step, I set up the storage device and created two partitions. 
+After that I installed some packages for Linux Arch. For this I used the command: pacman -S (package name).
 
-![alt Text](InstallationKernel.PNG)
+![alt text](InstallationKernel.PNG)
 
-Diese paket beinhalten extra Funktionen und sorgen dafür das das system besser funktioniert. 
-Ausserdem aktivierte ich Dienste, die beim Start von Linux Arch starten sollen. Dafür benutzte ich den Befehl: systemctl enable (name des Dienstes)
+These packages contain extra functions and make the system work better. 
+I also enabled services that should start when Linux Arch starts. For this I used the command: systemctl enable (name of the service)
 
 ### Installation Bootloader GRUB
-Ich brauche einen Bootloader, damit ich Linux Arch auch ohne den USB-stick booten kann. Dafür verwende ich GRUB.
-GRUB habe ich auch wieder mit dem Befehl Pacma -S installiert.
-Anschliessend habe ich das Betriebssystem neu gestartet und konnten Linux Arch ganz ohne USB-stick starten. Jetzt fehlt nur noch ein schönes Desktop Environment.
+I need a bootloader, so I can boot Linux Arch without the USB stick. For this I use GRUB.
+I installed GRUB again with the command Pacma -S.
+Afterwards I restarted the operating system and could boot Linux Arch without the USB stick. Now only a nice desktop environment is missing.
 
 ![alt Text](GRUB.png)
 
 ![alt Text](GRUB2.png)
 
-### Installation der sddm
-Ich installierte den Loginscreen der KDE.
+### Installing the sddm
+I installed the login screen of KDE.
 
 ![alt Text](sddm.png)
 
 ![alt Text](Login.png)
 
-### Installation von Plasma KDE
-Dieser Schritt hat nicht ganz funktioniert. beim Download hat es einige Errors gegeben, wo der Host nicht gefunden wurde. Dadurch konnte ich mich beim Loginscreen
-nicht anmelden.
+### Installing Plasma KDE
+This step didn't quite work. during the download there were some errors where the host wasn't found. Because of this I could not login to the
+login screen.
 
 ![alt Text](Plasma.png)

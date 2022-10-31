@@ -1,7 +1,9 @@
 ## Planen:
 
 ### Wie machte ich die Planung?
-Ich machte eine Taskliste, damit ich genau weiss, was zu tun ist. Ich machte auch einen Timetable und setzte mir dort Deadlines für die Tasks.
+Ich überlegte mir zuerst, was zu einer guten Planung gehört.
+Dann machte ich eine Taskliste, damit ich genau weiss, was zu tun ist. Ich erstelle auch einen Timetable und setzte mir dort Deadlines für die Tasks.
+Ausserdem setzte ich beim Timetable Meilesteine. 
 
 ### Schritt-für-Schritt Aufgabenliste:
 

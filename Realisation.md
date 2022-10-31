@@ -18,6 +18,8 @@ GRUB habe ich auch wieder mit dem Befehl Pacma -S installiert.
 Anschliessend habe ich das Betriebssystem neu gestartet und konnten Linux Arch ganz ohne USB-stick starten. Jetzt fehlt nur noch ein schönes Desktop Environment.
 
 ### Installation der sddm
+Ich installierte den Loginscreen der KDE.
 
 ### Installation von Plasma KDE
-Dieser Schritt hat nicht ganz funktioniert.
+Dieser Schritt hat nicht ganz funktioniert. beim Download hat es einige Errors gegeben, wo der Host nicht gefunden wurde. Dadurch konnte ich mich beim Loginscreen
+nicht anmelden.

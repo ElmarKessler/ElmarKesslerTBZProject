@@ -10,7 +10,7 @@ Ich habe den USB-stick in meinen Laptop gesteckt und beim Start die F12 Taste ge
 ### Installation von Linux Arch
 In der Konsole musste ich sehr viele Befehle eingeben. Es war nicht sehr schwierig, weil mir das Tutorial auf Youtube sehr geholfen hat. Zuerst musste ich eine stabile Internetverbindung haben und verwendete das Ethernetkabel. 
 Im nächsten Schritt habe ich das Speichermedium eingerichtet und zwei Partitionen erstellt. 
-Danach habe ich einige Pakete für Linux Arch installiert. Dafür benutzte ich den befehl: pacman -S (Paketname)
+Danach habe ich einige Pakete für Linux Arch installiert. Dafür benutzte ich den befehl: pacman -S (Paketname).
 
 ![alt Text](InstallationKernel.PNG)
 

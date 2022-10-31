@@ -5,7 +5,7 @@ Ich habe das iso File, das ich für die Installation von Linux Arch brauche auf 
 ### Setup der linux Arch Command konsole
 Ich habe den USB-stick in meinen Laptop gesteckt und beim Start die F12 Taste gedrückt, damit ich ins bootmenu komme. Im Bootmenue wählte ich den USB-stick aus und gelange schliesslich zur Linux Arch Konsole.
 
-![alt text](Commandprompt.PNG)
+![alt text](Command prompt.PNG)
 
 ### Installation von Linux Arch
 In der Konsole musste ich sehr viele Befehle eingeben. Es war nicht sehr schwierig, weil mir das Tutorial auf Youtube sehr geholfen hat. Zuerst musste ich eine stabile Internetverbindung haben und verwendete das Ethernetkabel. 

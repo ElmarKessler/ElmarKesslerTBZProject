@@ -1,17 +1,17 @@
-## Entscheiden
+## Decide
 
 ### Which Operating system:
 
-Ich habe mich entschieden als Basis für mein Betriebssystem Linux Arch zu verwenden, weil Arch Linux sehr benutzerfreundlich ist und simple ist. Ausserdem ist Arch Linux sehr weit verbreitet eine der beliebtesten Linux Distribution.
+I decided to use Arch as the base for my operating system because Arch Linux is very user-friendly and simple. Also, Arch Linux is very widely used and is one of the most popular Linux distributions.
 
-Linux Mint ist weniger weit verbreitet und Kali Linux ist mehr für Fortgeschrittene. Man benutzt Kali Linux auch für Hacking und es ist weniger gut geeignet für den täglichen Gebrauch.
+Linux Mint is less common and Kali Linux is more for advanced users. Kali Linux is also used for hacking and is less suitable for everyday use.
 
-### Which Desktop environment:
+### Which desktop environment:
 
-Ich habe mich beim desktop emvironment für Plasma entschieden, da es sehr schnell ist und die meisten customizations bietet. Ausserdem hebt es ich durch die vielen Einstellungsmöglichkeiten von den anderen ab und gefällt mir auch optisch am besten.
+I chose Plasma for the desktop environment because it is very fast and offers the most customizations. It also stands out from the others because of the many customization options and I also like it the best visually.
 
 ### Utility analysis:
 
 ![alt Text](Utility.png)
 
-The dark coloured fields are the milestones.
+The dark colored fields are the milestones.

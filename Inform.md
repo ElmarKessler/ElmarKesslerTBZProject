@@ -1,32 +1,32 @@
 ## Inform
 
-### Projektidee:
-Ich möchte ein operating system auf meinem Laptop installieren und daran Änderungen vornehmen und es customizen.
-Dabei möchte ich lernen wie man ein Linux Betriebssystem installiert.
+### Project idea:
+I want to install an operating system on my laptop and make changes to it and customize it.
+I would like to learn how to install a Linux operating system.
 
-### How did I came to this project idea?
-I wanted to do a project where I can be creative and do something unique. Da mein alter Laptop langsam ist, fand ich es eine gute Idee, ihn mit einem neuen schnelleren Betriebssystem schenller zu machen.
-Ausserdem interessierte ich mich schon immer für linux und wollte schon immer einmal ein Linux Betriebssystem benutzen.
+### How did I come to this project idea?
+I wanted to do a project where I can be creative and do something unique. Since my old laptop is slow, I thought it would be a good idea to make it faster with a new, faster operating system.
+Also, I have always been interested in linux and have always wanted to use a linux operating system.
 
-### Was benötige ich für das Projekt?
+### What do I need for the project?
 
-- Laptop
-- USB-Stick
-- Ethernet kabel.
+- Laptop computer
+- USB stick
+- Ethernet cable.
 
-Ich besitze bereits alles nötige und muss nichts besorgen.
+I already own everything needed and don't need to get anything.
 
-### Operating system Möglichkeiten:
+### Operating system options:
 
 - Linux Arch
 - Linux Mint
 - Linux Kali
 
-### Desktop environment Möglichkeiten:
+### Desktop environment options:
 
 - GNOME
 - Plasma
 - Xfce
 
-Ich habe mich im Internet und auf Youtube informiert.
-Ich entschied mich, auf Youtube ein Tutorial für die Installation des Operating systems zu schauen.
+I did some research on the internet and on Youtube.
+I decided to watch a tutorial on Youtube for installing the operating system.

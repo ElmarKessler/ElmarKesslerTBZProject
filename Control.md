@@ -1,9 +1,9 @@
-#Kontrollieren:
+## Kontrollieren:
  
  Testprotocol
-Checkliste:
+### Checkliste:
 
-Operating system:
+#### Operating system:
 - [x] Das Betriebssystem ist installiert?
 - [x] Das Betriebssystem kann man gebrauchen?
 - [x] Ich kann mich als Benutzer anmelden?
@@ -21,5 +21,4 @@ Operating system:
 - [x] Die Dokumentation ist übersichtlich?
 - [x] Die Dokumentation enthält alle Iperka Themen?
 
-##Auswerten:
 

@@ -2,6 +2,7 @@
 
 ### Projektidee:
 Ich möchte ein operating system auf meinem Laptop installieren und daran Änderungen vornehmen und es customizen.
+Dabei möchte ich lernen wie man ein Linux Betriebssystem installiert.
 
 ### How did I came to this project idea?
 I wanted to do a project where I can be creative and do something unique. Da mein alter Laptop langsam ist, fand ich es eine gute Idee, ihn mit einem neuen schnelleren Betriebssystem schenller zu machen.
@@ -18,9 +19,7 @@ Ich besitze bereits alles nötige und muss nichts besorgen.
 ### Operating system Möglichkeiten:
 
 - Linux Arch
-
 - Linux Mint
-
 - Linux Kali
 
 ### Desktop environment Möglichkeiten:
@@ -29,5 +28,5 @@ Ich besitze bereits alles nötige und muss nichts besorgen.
 - Plasma
 - Xfce
 
-Ich habe mich hauptsächlich im Internet und auf Youtube informiert.
+Ich habe mich im Internet und auf Youtube informiert.
 Ich entschied mich, auf Youtube ein Tutorial für die Installation des Operating systems zu schauen.

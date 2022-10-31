@@ -1,24 +1,24 @@
-## Kontrollieren:
+## Control:
  
  Testprotocol
-### Checkliste:
+### Checklist:
 
 #### Operating system:
-- [x] Das Betriebssystem ist installiert?
-- [x] Das Betriebssystem kann man gebrauchen?
-- [x] Ich kann mich als Benutzer anmelden?
-- [x] Ich kann das Betriebssystem ohne USB-stick starten.
+- [x] The operating system is installed?
+- [x] The operating system can be used?
+- [x] I can log in as a user?
+- [x] I can start the operating system without a USB stick.
 
-#### Das Aussehen:
-- [x] Ich habe einen schön aussehenden Login Screen?
-- [ ] Ich kan mich in diesem Loginscreen anmelden?
-- [ ] Ich habe die Desktop Environment erfolgreich installiert?
-- [x] Es wird die richtige Zeit angezeigt?
+#### The appearance:
+- [x] I have a nice looking login screen?
+- [ ] I can log in to this login screen?
+- [ ] I have successfully installed the desktop environment?
+- [ ] The correct time is displayed?
 
-#### Dokumentation:
-- [x] Die Dokumentation ist in English?
-- [x] Die Dokumentation enthält keine Fehler?
-- [x] Die Dokumentation ist übersichtlich?
-- [x] Die Dokumentation enthält alle Iperka Themen?
+#### Documentation:
+- [x] The documentation is in English?
+- [x] The documentation does not contain any errors?
+- [x] The documentation is clear?
+- [x] The documentation contains all Iperka topics?
 
 

@@ -10,4 +10,8 @@ Linux Mint ist weniger weit verbreitet und Kali Linux ist mehr für Fortgeschrit
 
 Ich habe mich beim desktop emvironment für Plasma entschieden, da es sehr schnell ist und die meisten customizations bietet. Ausserdem hebt es ich durch die vielen Einstellungsmöglichkeiten von den anderen ab und gefällt mir auch optisch am besten.
 
+### Utility analysis:
+
 ![alt Text](Utility.png)
+
+The dark coloured fields are the milestones.

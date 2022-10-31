@@ -1,9 +1,9 @@
-# Planen:
+## Planen:
 
-## Wie machte ich die Planung?
+### Wie machte ich die Planung?
 Ich machte eine Taskliste, damit ich genau weiss, was zu tun ist. Ich machte auch einen Timetable und setzte mir dort Deadlines für die Tasks.
 
-## Schritt-für-Schritt Aufgabenliste:
+### Schritt-für-Schritt Aufgabenliste:
 
 1. Inform, about what is important when download a custom os
 2. Make a new partition on the storage drive for the new os
@@ -21,6 +21,8 @@ Ich machte eine Taskliste, damit ich genau weiss, was zu tun ist. Ich machte auc
 14. Erstelle die Dokumentation
 15. Analysiere das Projekt
 16. Mache eine Präsentation des Projekts
+
+### Timetable with deadlines
 
 ![alt Text](Timetable.png)
 

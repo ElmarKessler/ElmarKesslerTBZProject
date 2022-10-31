@@ -1,32 +1,31 @@
-## Planen:
+## Planning:
 
-### Wie machte ich die Planung?
-Ich überlegte mir zuerst, was zu einer guten Planung gehört.
-Dann machte ich eine Taskliste, damit ich genau weiss, was zu tun ist. Ich erstelle auch einen Timetable und setzte mir dort Deadlines für die Tasks.
-Ausserdem setzte ich beim Timetable Meilesteine. 
+### How did I do the planning?
+I first thought about what goes into good planning.
+Then I made a task list so I knew exactly what needed to be done. I also created a timetable and set deadlines for the tasks.
+I also set milestones on the timetable. 
 
-### Schritt-für-Schritt Aufgabenliste:
+### Step-by-step task list:
 
-1. Inform, about what is important when download a custom os
-2. Make a new partition on the storage drive for the new os
-3. Make computer ready for dual boot
-4. Find a operating system with many options to customize it
-5. Download the os on an USB Stick
-6. Install the os on the laptop
-7. Boot the os
-8. Do optional customizations, so that the os runs smoother
-9. Do optionals customizations for the design of the os
-10. Test the operating system
-11. Download different applications on the os
-12. Make final adjustments
-13. Test the operating system again
-14. Erstelle die Dokumentation
-15. Analysiere das Projekt
-16. Mache eine Präsentation des Projekts
+1. inform, about what is important when downloading a custom os
+2. make a new partition on the storage drive for the new os
+3. make computer ready for dual boot
+4. find an operating system with many options to customize it
+5. download the os on a USB stick
+6. install the os on the laptop
+7. boot the os
+8. do optional customizations, so that the os runs smoother
+9. do optional customizations for the design of the os
+10. test the operating system
+11. download different applications on the os
+12. make final adjustments
+13. test the operating system again
+14. create the documentation
+15. analyze the project
+16. make a presentation of the project
 
 ### Timetable with deadlines
 
 ![alt Text](Timetable.png)
 
-Das Planen funktionierte sehr gut. Ich machte eine Taskliste was mir die Arbeit am Projekt erleichterte. Leider konnte ich die Deadlines im Timetable nicht immer einhalten, weil es bei manchen Schritten Probleme gab und es länger dauerte.
-
+The scheduling worked very well. I made a task list which made it easier for me to work on the project. Unfortunately, I couldn't always meet the deadlines in the timetable because there were problems with some steps and it took longer.

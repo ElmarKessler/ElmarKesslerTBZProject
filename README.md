@@ -3,7 +3,7 @@
 ## Project description
 
 I wanted to do a project where I can do something with software. I came up with the idea to install a new operating system on my laptop and customize it.
-With this operating system you should be able to do most of the things that you can on windows.
+With this operating system you should be able to do most of the things that you can do on windows.
 
 # IPERKA
 

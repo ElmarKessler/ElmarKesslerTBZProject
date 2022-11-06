@@ -1,23 +1,23 @@
 ## Assess
 
-### Reflexion:
+### Reflection:
 
-### Was habe ich gelernt:
-- Ich habe gelernt, wie man ein Linux betriebssystem insalliert.
-- ich habe gelernt, wie man ein Projekt mithilfe von IPERKA macht.
-- Ich habe gelernt, was bei einer Projektplanung wichtig ist.
+### What I learned:
+- I learned how to install a Linux operating system.
+- I learned how to do a project using IPERKA.
+- I learned what is important in a project planning.
 
-### Was war gut:
-- Mir gefällt mein Timetable sehr gut und ich finde ihn sehr schön.
-- Die installation von Linux Arch lief Problemlos. 
-- Ich war die meiste Zeit sehr konzentriert am Arbeiten.
+### What was good:
+- I like my timetable very much and I think it is very nice.
+- The installation of Linux Arch went smoothly. 
+- I was very concentrated on my work most of the time.
 
-### Was kann ich verbessern:
-- Ich konnte die Deadlines nicht immer einhalten. Ich sollte beim nächsten Mal mehr Zeit einplanen.
-- ich konnte die KDE nicht installieren, weil es Probleme mit dem DNS gab.
-- Ich habe den Fokus etwas zu wenig auf der Dokumentation gehabt. Ich sollte schon von Anfang an mit der Dokumentation beginnen.
+### What can I improve:
+- I could not always meet the deadlines. I should allow more time next time.
+- I could not install the KDE because there were problems with the DNS.
+- I had the focus a bit too little on the documentation. I should start with the documentation right from the beginning.
 
-### Was würde ich anders machen:
-- Ich würde beim Projekt mehr Zeit einplanen um Stress zu vermeiden.
-- ich würde schon von Anfang an mit der Dokumentation starten.
-- Ich würde probieren, schon eine Woche bevor der Abgabe mit dem Projekt feritg zu sein, damit ich keinen Stress habe.
+### What would I do differently:
+- I would schedule more time in the project to avoid stress.
+- I would start with the documentation right from the beginning.
+- I would try to be ready with the project a week before the deadline to avoid stress.

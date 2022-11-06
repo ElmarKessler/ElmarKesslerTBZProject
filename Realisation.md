@@ -39,3 +39,8 @@ This step didn't quite work. during the download there were some errors where th
 login screen and didn't got further into the desktop environment of Linux Arch.
 
 ![alt Text](Plasma.png)
+
+### The problem 
+I luckily only got one problem in my project. But unfortunately it was a problem I could not solve. While downloading to Plasma KDE I got many errors that the host is not found. This has also to do with the missing namingservice and the DNS. I tryed many ways and typed in many commands that could possibly solve the problem.
+I searched hours on the internet and in forums but I could not solve the problem. I find it very strange that there was no problem in the Youtube tutorial.
+Because of this problem I don't have a nice desktop user interface. However, the most important functionalities are not limited.

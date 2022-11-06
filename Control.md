@@ -1,4 +1,4 @@
-## Control:
+## Control
 ### How did I control
 To control, I looked at the final result and asked myself what was working and what was not. I also looked at the tasks and thought about which tasks I could finish and which not. To make it better visible I created a checklist.
 

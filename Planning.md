@@ -1,11 +1,11 @@
-## Planning:
+## Planning
 
 ### How did I do the planning?
 I first thought about what belongs to good planning.
 Then I made a task list so I knew exactly what needed to be done. I also created a timetable and set deadlines for the tasks.
 I marked the milestones in dark blue on the timetable. 
 
-### Step-by-step task list:
+### Step-by-step task list
 
 1. Inform, about what is important when downloading a custom os
 2. Make a new partition on the storage drive for the new os

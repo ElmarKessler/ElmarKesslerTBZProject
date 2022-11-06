@@ -1,6 +1,6 @@
 ## Inform
 
-### Project idea:
+### Project idea
 I want to install an operating system on my laptop, make changes to it and customize it.
 I would like to learn how to install a Linux operating system.
 
@@ -17,17 +17,33 @@ I have always been interested in linux and have always wanted to use a linux ope
 
 I already own everything needed and don't need to buy anything.
 
-### Operating system options:
+### Operating system options
 
 - Linux Arch
 - Linux Mint
 - Linux Kali
 
-### Desktop environment options:
+### Desktop environment options
 
 - GNOME
 - Plasma
 - Xfce
+
+### Project requirements
+- Define goals
+- Milestones
+- Task list
+- Timetable
+
+### Documentation requirements
+- no major writing mistakes
+- good formatted
+- easy to read
+
+### References
+
+- [Download of Linux Arch](https://archlinux.org/)
+- [Youtube tutorial](https://www.youtube.com/watch?v=DPLnBPM4DhI&t=5413s)
 
 I did all of the research on the internet and on Youtube.
 I decided to watch a tutorial on Youtube for installing the operating system.

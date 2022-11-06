@@ -2,8 +2,7 @@
 ### How did I control
 To control, I looked at the final result and asked myself what was working and what was not. I also looked at the tasks and thought about which tasks I could finish and which not. To make it better visible I created a checklist.
 
-### Checklist:
-
+### Checklist
 #### Operating system
 - [x] The operating system is installed?
 - [x] The operating system can be used?

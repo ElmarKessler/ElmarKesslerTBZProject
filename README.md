@@ -1,4 +1,4 @@
-# Custom operating system Linux Arch
+# Custom operating system
 
 ## Project description
 

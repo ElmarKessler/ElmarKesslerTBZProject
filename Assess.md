@@ -14,7 +14,7 @@
 
 ### What can I improve
 - I could not always meet the deadlines. I should allow more time next time.
-- I could not install the KDE (desktop environment) because there were problems with the DNS and the Namingservice.
+- I could not install the KDE (desktop environment) because there were problems with the DNS and the namingservice.
 - I had the focus a bit too little on the documentation. I should start with the documentation right from the beginning.
 
 ### What would I do differently

@@ -3,7 +3,7 @@
 ### How did I do the planning?
 I first thought about what belongs to good planning.
 Then I made a task list so I knew exactly what needed to be done. I also created a timetable and set deadlines for the tasks.
-I also set milestones and marked them in dark blue on the timetable. 
+I marked the milestones in dark blue on the timetable. 
 
 ### Step-by-step task list:
 
@@ -24,7 +24,9 @@ I also set milestones and marked them in dark blue on the timetable.
 16. Make a presentation of the project
 
 ### Timetable with deadlines
+I created the timetable in excel and marked in green and orange for how long I work on this task and try to finish with this task. The dark fields are the milestones.
+This timetable helped me a lot to stay on time and work efficient. I think a good timetable is very important for a project. This is why I invested much time in the timetable.
 
 ![alt Text](Timetable.png)
 
-The scheduling worked very well. I made a task list which made it easier for me to work on the project. Unfortunately, I couldn't always meet the deadlines in the timetable because there were problems with some steps where I needed more time.
+The scheduling worked very well. I made a task list which made it easier for me to work on the project. Unfortunately, I couldn't always meet the deadlines in the timetable because there were problems with some the last steps where I needed more time.

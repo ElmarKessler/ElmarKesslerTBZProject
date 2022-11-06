@@ -1,6 +1,6 @@
 ## Decide
 
-### Which Operating system
+### Which operating system
 
 I decided to use Arch as the base for my operating system because Arch Linux is very user-friendly and simple. Arch Linux is very widely used and is one of the most popular Linux distributions.
 

@@ -2,7 +2,7 @@
 ### Download the installation file
 I downloaded the installation file I need for the installation of Linux Arch on a USB-stick. I downloaded the installation file from the official site of Linux Arch and it took only a few seconds.
 
-### Setup of the linux Arch Command console
+### Setup of the Linux Arch command console
 I put the USB stick in my laptop and pressed F12 on startup to get into the bootmenu. In the bootmenu I selected the USB-stick and finally got to the linux Arch console where I was able to type in commands that are important for the installation.
 
 ![alt Text](Command prompt.PNG)
@@ -17,7 +17,7 @@ After that I installed some packages for Linux Arch. To do this I used the comma
 These packages contain extra functions and make the system work better. 
 I also enabled services that start when Linux Arch boots. For this I used the command: systemctl enable (name of the service).
 
-### Installation Bootloader GRUB
+### Installation bootloader GRUB
 I needed a bootloader, so I can boot Linux Arch without the USB-stick. For this I used GRUB.
 I installed GRUB again with the command: Pacman -S.
 Afterwards I restarted the operating system and was a little bit nervous because if it would not have worked I had to redo every single stsep.

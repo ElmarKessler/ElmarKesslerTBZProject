@@ -1,28 +1,28 @@
 ## Planning:
 
 ### How did I do the planning?
-I first thought about what goes into good planning.
+I first thought about what belongs to good planning.
 Then I made a task list so I knew exactly what needed to be done. I also created a timetable and set deadlines for the tasks.
-I also set milestones on the timetable. 
+I also set milestones and marked them in dark blue on the timetable. 
 
 ### Step-by-step task list:
 
-1. inform, about what is important when downloading a custom os
-2. make a new partition on the storage drive for the new os
-3. make computer ready for dual boot
-4. find an operating system with many options to customize it
-5. download the os on a USB stick
-6. install the os on the laptop
-7. boot the os
-8. do optional customizations, so that the os runs smoother
-9. do optional customizations for the design of the os
-10. test the operating system
-11. download different applications on the os
-12. make final adjustments
-13. test the operating system again
-14. create the documentation
-15. analyze the project
-16. make a presentation of the project
+1. Inform, about what is important when downloading a custom os
+2. Make a new partition on the storage drive for the new os
+3. Make computer ready for dual boot
+4. Find an operating system with many options to customize it
+5. Download the os on a USB stick
+6. Install the os on the laptop
+7. Boot the os
+8. Do optional customizations, so that the os runs smoother
+9. Do optional customizations for the design of the os
+10. Test the operating system
+11. Download different applications on the os
+12. Make final adjustments
+13. Test the operating system again
+14. Create the documentation
+15. Analyze the project
+16. Make a presentation of the project
 
 ### Timetable with deadlines
 

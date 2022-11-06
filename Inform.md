@@ -6,13 +6,14 @@ I would like to learn how to install a Linux operating system.
 
 ### How did I come to this project idea?
 I wanted to do a project where I can be creative and do something unique. Since my old laptop is slow, I thought it would be a good idea to make it faster with a new, faster operating system.
-I have always been interested in linux and have always wanted to use a linux operating system.
+I have always been interested in linux and have always wanted to use a linux operating system and learn how to download one.
 
 ### What do I need for the project?
 
-- Laptop computer
+- Laptop computer (with charging cable)
 - USB-stick
 - Ethernet cable.
+- Computer mouse
 
 I already own everything needed and don't need to buy anything.
 

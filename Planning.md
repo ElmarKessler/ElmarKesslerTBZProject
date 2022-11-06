@@ -14,13 +14,12 @@ I also set milestones and marked them in dark blue on the timetable.
 5. Download the os on a USB stick
 6. Install the os on the laptop
 7. Boot the os
-8. Do optional customizations, so that the os runs smoother
-9. Do optional customizations for the design of the os
+9. Do customizations and try different options for the look of the operating system.
 10. Test the operating system
 11. Download different applications on the os
 12. Make final adjustments
 13. Test the operating system again
-14. Create the documentation
+14. Write the final documentation
 15. Analyze the project
 16. Make a presentation of the project
 
@@ -28,4 +27,4 @@ I also set milestones and marked them in dark blue on the timetable.
 
 ![alt Text](Timetable.png)
 
-The scheduling worked very well. I made a task list which made it easier for me to work on the project. Unfortunately, I couldn't always meet the deadlines in the timetable because there were problems with some steps and it took longer.
+The scheduling worked very well. I made a task list which made it easier for me to work on the project. Unfortunately, I couldn't always meet the deadlines in the timetable because there were problems with some steps where I needed more time.
